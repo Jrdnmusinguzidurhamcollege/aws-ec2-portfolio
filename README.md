@@ -3,7 +3,7 @@
 A live portfolio website deployed on AWS EC2 using Amazon Linux and Apache.
 
 ## Live Demo
-http://52.14.111.64
+http://52.14.111.64/
 
 ## Project Overview
 This project was built to learn the fundamentals of cloud deployment and remote server management. I launched a Linux-based virtual server on AWS EC2, configured networking and security access, connected remotely through SSH, installed Apache, and hosted a custom HTML/CSS/JavaScript portfolio site live on the internet.
